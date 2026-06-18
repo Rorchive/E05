@@ -2669,7 +2669,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "37118006-9ea2-44fd-93c3-763b300d5e20")
-		(property "Reference" "#PWR02"
+		(property "Reference" "#PWR04"
 			(at 95.25 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -2729,7 +2729,7 @@
 		(instances
 			(project "Transistor_Driver"
 				(path "/3229a635-ec2b-40b4-9555-10d0ea3caa11"
-					(reference "#PWR02")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -2919,7 +2919,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7eb71f98-bb73-4f97-af49-46ff86da5866")
-		(property "Reference" "R3"
+		(property "Reference" "R1"
 			(at 59.69 74.9299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2983,7 +2983,7 @@
 		(instances
 			(project "Transistor_Driver"
 				(path "/3229a635-ec2b-40b4-9555-10d0ea3caa11"
-					(reference "R3")
+					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -3001,7 +3001,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "85908560-43b9-486b-a231-cb4e789b82f8")
-		(property "Reference" "J1"
+		(property "Reference" "J2"
 			(at 48.26 41.9099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3063,7 +3063,7 @@
 		(instances
 			(project "Transistor_Driver"
 				(path "/3229a635-ec2b-40b4-9555-10d0ea3caa11"
-					(reference "J1")
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -3081,7 +3081,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8ddb6b3e-1822-4659-983c-81d8c1b9a456")
-		(property "Reference" "Q2"
+		(property "Reference" "Q1"
 			(at 97.79 68.5799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3173,7 +3173,7 @@
 		(instances
 			(project "Transistor_Driver"
 				(path "/3229a635-ec2b-40b4-9555-10d0ea3caa11"
-					(reference "Q2")
+					(reference "Q1")
 					(unit 1)
 				)
 			)
@@ -3270,7 +3270,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a044ddd9-f4c1-433a-ba42-437521ee6530")
-		(property "Reference" "J3"
+		(property "Reference" "J1"
 			(at 48.26 35.5599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3332,7 +3332,7 @@
 		(instances
 			(project "Transistor_Driver"
 				(path "/3229a635-ec2b-40b4-9555-10d0ea3caa11"
-					(reference "J3")
+					(reference "J1")
 					(unit 1)
 				)
 			)
@@ -3479,7 +3479,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b0704143-75b2-4aaa-9edd-3b7499d4adc7")
-		(property "Reference" "K2"
+		(property "Reference" "K1"
 			(at 111.76 38.0999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3553,7 +3553,7 @@
 		(instances
 			(project "Transistor_Driver"
 				(path "/3229a635-ec2b-40b4-9555-10d0ea3caa11"
-					(reference "K2")
+					(reference "K1")
 					(unit 1)
 				)
 			)
@@ -3571,7 +3571,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b962058f-2663-47a6-b193-ebee94b0c1fc")
-		(property "Reference" "D3"
+		(property "Reference" "D1"
 			(at 78.74 39.3699 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3657,7 +3657,7 @@
 		(instances
 			(project "Transistor_Driver"
 				(path "/3229a635-ec2b-40b4-9555-10d0ea3caa11"
-					(reference "D3")
+					(reference "D1")
 					(unit 1)
 				)
 			)
@@ -3675,7 +3675,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ca37368c-4d8b-4c17-beda-18bea437e4c5")
-		(property "Reference" "R1"
+		(property "Reference" "R2"
 			(at 71.12 63.5 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3737,7 +3737,7 @@
 		(instances
 			(project "Transistor_Driver"
 				(path "/3229a635-ec2b-40b4-9555-10d0ea3caa11"
-					(reference "R1")
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -3833,7 +3833,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e0f14617-7aaa-4761-b00d-f536362eca90")
-		(property "Reference" "#PWR03"
+		(property "Reference" "#PWR02"
 			(at 31.75 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -3893,7 +3893,7 @@
 		(instances
 			(project "Transistor_Driver"
 				(path "/3229a635-ec2b-40b4-9555-10d0ea3caa11"
-					(reference "#PWR03")
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -3911,7 +3911,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f830b47f-786a-4a52-952c-e2428b9eb4a1")
-		(property "Reference" "R2"
+		(property "Reference" "R3"
 			(at 125.73 68.5799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3975,7 +3975,7 @@
 		(instances
 			(project "Transistor_Driver"
 				(path "/3229a635-ec2b-40b4-9555-10d0ea3caa11"
-					(reference "R2")
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -3993,7 +3993,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fa88d409-5635-4c3a-8fdc-519ffc417fd6")
-		(property "Reference" "#PWR04"
+		(property "Reference" "#PWR03"
 			(at 31.75 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -4053,7 +4053,7 @@
 		(instances
 			(project "Transistor_Driver"
 				(path "/3229a635-ec2b-40b4-9555-10d0ea3caa11"
-					(reference "#PWR04")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -4071,7 +4071,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fd8702d6-b1c9-41f4-b0e0-bdf5c984745b")
-		(property "Reference" "J2"
+		(property "Reference" "J3"
 			(at 151.13 66.0399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4135,7 +4135,7 @@
 		(instances
 			(project "Transistor_Driver"
 				(path "/3229a635-ec2b-40b4-9555-10d0ea3caa11"
-					(reference "J2")
+					(reference "J3")
 					(unit 1)
 				)
 			)
