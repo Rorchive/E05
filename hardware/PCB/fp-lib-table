@@ -1,4 +1,7 @@
 (fp_lib_table
 	(version 7)
 	(lib (name "PS1024ALRED") (type "KiCad") (uri "${KIPRJMOD}/utils/PS1024ALRED") (options "") (descr ""))
+	(lib (name "utils") (type "KiCad") (uri "${KIPRJMOD}/utils.pretty") (options "") (descr ""))
+	(lib (name "Library") (type "KiCad") (uri "${KIPRJMOD}/utils/Library.pretty") (options "") (descr ""))
+	(lib (name "Transistor_Driver-Footprints") (type "KiCad") (uri "${KIPRJMOD}/Transistor_Driver-Footprints.pretty") (options "") (descr ""))
 )

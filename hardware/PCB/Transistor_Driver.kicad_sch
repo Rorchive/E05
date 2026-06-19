@@ -2848,7 +2848,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D3.0mm"
+		(property "Footprint" "Transistor_Driver-Footprints:LED_D3.0mm_Clear"
 			(at 123.19 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -2941,7 +2941,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "Transistor_Driver-Footprints:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 55.372 76.2 90)
 			(hide yes)
 			(show_name no)
@@ -3024,7 +3024,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
+		(property "Footprint" "Transistor_Driver-Footprints:PinHeader_1x01_P2.54mm_Vertical"
 			(at 45.72 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -3103,7 +3103,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
+		(property "Footprint" "Transistor_Driver-Footprints:TO-92_Inline_Wide"
 			(at 97.79 71.755 0)
 			(hide yes)
 			(show_name no)
@@ -3293,7 +3293,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
+		(property "Footprint" "Transistor_Driver-Footprints:PinHeader_1x01_P2.54mm_Vertical"
 			(at 45.72 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -3370,7 +3370,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PS1024ALRED:SW_PS1024ALRED"
+		(property "Footprint" "Transistor_Driver-Footprints:SW_PS1024ALRED"
 			(at 43.18 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -3501,7 +3501,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Relay_THT:Relay_SPDT_Omron-G5LE-1"
+		(property "Footprint" "Transistor_Driver-Footprints:Relay_SPDT_Omron-G5LE-1"
 			(at 111.76 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -3593,7 +3593,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-201AD_P15.24mm_Horizontal"
+		(property "Footprint" "Transistor_Driver-Footprints:D_DO-201AD_P15.24mm_Horizontal"
 			(at 71.755 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -3695,7 +3695,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "Transistor_Driver-Footprints:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 71.12 71.628 90)
 			(hide yes)
 			(show_name no)
@@ -3933,7 +3933,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "Transistor_Driver-Footprints:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 124.968 69.85 90)
 			(hide yes)
 			(show_name no)
@@ -4093,7 +4093,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal"
+		(property "Footprint" "Transistor_Driver-Footprints:TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal"
 			(at 148.59 66.04 0)
 			(hide yes)
 			(show_name no)

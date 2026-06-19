@@ -50,15 +50,25 @@ This project involves the development of a DC Motor Driver module tailored for t
     <tr>
       <td><img style="max-width: 200px;" src="docs/pictures/PCB-render.png" alt="render"/></td>
       <td>Motor Driver v1</td>
-      <td>🧪 Testing</td>
-      <td><a href="https://github.com/Rorchive/E05/releases/tag/v1r1">v1r1</a></td>
-      <td>2026-06-18</td>
+      <td>✅ Released</td>
+      <td><a href="https://github.com/Rorchive/E05/releases/tag/v1r2">v1r2</a></td>
+      <td>2026-06-19</td>
       <td></td>
       <td>No</td>
       <td><a href="hardware/Fabrication/GERBER-Transistor_Driver.zip">GERBER</a> (JLCPCB)</td>
     </tr>
   </tbody>
 </table>
+
+## Circuit Operation
+
+Figure (a) illustrates the driver module in its active state with the relay energized (latched) and the LED status indicator turned on while the push-button is pressed, completing the circuit to power the DC motor. Figure (b) depicts the circuit in its default idle state (relay de-energized) with no input applied to the button.
+
+<p align="center">
+  <img src="docs/pictures/PCB-mounted.png" alt="Driver"/>
+  <br>
+  <em>Figure 1: Side-by-side comparison of the mechanical mounting system: (a) Engaged state, (b) Disengaged state.</em>
+</p>
 
 ## License
 
@@ -73,7 +83,7 @@ This project is licensed under the weakly-reciprocal **[CERN-OHL-W-2.0](LICENSE)
 </div>
 
 <div align="center">
-<sub>📜 Este projeto faz parte do <strong><a href="https://github.com/Rorchive">Rorchive</a></strong>, meu arquivo pessoal de atividades e cursos desenvolvidos durante a graduação no <strong>Inatel</strong>.</sub>
+<sub>📜 This project is part of <strong><a href="https://github.com/Rorchive">Rorchive</a></strong>, my personal archive of activities and courses developed during my undergraduate studies at <strong>Inatel</strong>.</sub>
 
-  <sub>Construído com ❤️ por <a href="https://github.com/RodrigoCAndrade">Rodrigo Andrade</a></sub>
+  <sub>Built with ❤️ by <a href="https://github.com/RodrigoCAndrade">Rodrigo Andrade</a></sub>
 </div>
